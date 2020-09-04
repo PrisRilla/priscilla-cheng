@@ -1,3 +1,4 @@
+Visit the deployed website [HERE](https://edmundcheng.netlify.app/)
 # Edmund's Portfolio
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.2.

@@ -1,4 +1,4 @@
-# [Priscilla Cheng's Portfolio](priscilla-cheng.netlify.app)
+# [Priscilla Cheng's Portfolio](https://priscilla-cheng.netlify.app/)
 
 Thanks for visiting my portfolio. Below is general information regarding angular. Prerequisites to run via MacOS include:
 

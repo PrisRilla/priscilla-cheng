@@ -1,7 +1,12 @@
-Visit the deployed website [HERE](https://edmundcheng.netlify.app/)
-# Edmund's Portfolio
+# [Priscilla Cheng's Portfolio](priscilla-cheng.netlify.app)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.2.
+Thanks for visiting my portfolio. Below is general information regarding angular. Prerequisites to run via MacOS include:
+
+- Install Xcode (via Apple App store)
+- Install [homebrew](https://brew.sh/) for package management as sudo and curl pose more of security risk because you are running the script directly. Choosing the wrong script can run poorly. Installing homebrew also downloads the Xcode command line package for you
+- Make sure you have node and npm installed
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
 
 ## Development server
 

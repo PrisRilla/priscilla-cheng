@@ -1875,7 +1875,7 @@ body {
 }
 
 .bg-primary {
-  background-color: #00334D !important;
+  background-color: #4708ad !important;
 }
 
 .bg-info {
@@ -4819,8 +4819,8 @@ img {
   /* For Safari 5.1 to 6.0 */
   /* For Opera 11.1 to 12.0 */
   /* For Firefox 3.6 to 15 */
-  background: -webkit-gradient(linear, left bottom, left top, from(rgba(44, 44, 44, 0.2)), to(rgba(55, 140, 63, 0.6)));
-  background: linear-gradient(0deg, rgba(44, 44, 44, 0.2), rgba(55, 140, 63, 0.6));
+  background: -webkit-gradient(linear, left bottom, left top, from(rgba(38, 8, 121, 0.2)), to(rgba(73, 175, 104, 0.418)));
+  background: linear-gradient(0deg, rgba(150, 92, 243, 0.479), rgba(48, 211, 116, 0.349));
   /* Standard syntax */
 }
 
@@ -4866,7 +4866,7 @@ img {
 
 .cc-profile-image a:before {
   content: "";
-  border: 15px solid rgba(55, 140, 63, 0.6);
+  border: 15px solid rgba(111, 43, 238, 0.445);
   border-radius: 50%;
   height: 180px;
   width: 180px;

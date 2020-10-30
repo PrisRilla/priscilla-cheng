@@ -1,7 +1,18 @@
 # [Priscilla Cheng's Portfolio](https://priscilla-cheng.netlify.app/)
 
-Thanks for visiting my portfolio. Below is general information regarding angular. Prerequisites to run via MacOS include:
+<img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
 
+> Thanks for visiting my career portfolio! My intention is to provide further insight into my career choices and working experiences as not everything can fit into 1 piece of paper. Please navigate the below for more information.  
+
+- [Prerequisites](#prerequisites)  
+- [Dev Server](#development-server)  
+- [New Component](#code-scaffolding)  
+- [Build](#build)  
+- [Unit Tests](#running-unit-tests)  
+- [end2end](#running-end-to-end-tests)  
+- [Further Help](#further-help)  
+
+## Prerequisites
 - Install Xcode (via Apple App store)
 - Install [homebrew](https://brew.sh/) for package management as sudo and curl pose more of security risk because you are running the script directly. Choosing the wrong script can run poorly. Installing homebrew also downloads the Xcode command line package for you
 - Make sure you have node and npm installed

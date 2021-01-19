@@ -2,7 +2,7 @@
 [![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)  
 
 <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9c70580e-6a30-4014-9118-62c6f317a1d4/deploy-status)](https://app.netlify.com/sites/priscilla-cheng/deploys)
+
 
 > Thanks for visiting my career portfolio! My intention is to provide further insight into my career choices and working experiences as not everything can fit into 1 piece of paper. Please navigate the below for more information.  
 
